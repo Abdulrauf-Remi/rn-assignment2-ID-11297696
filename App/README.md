@@ -11,5 +11,5 @@ This project is a simple React Native app that displays a text message with a co
 
 **Screenshot:**
 
-Screenshot 2024-05-26 150044.png
+![App](Screenshot 2024-05-26 150044.png)
 
