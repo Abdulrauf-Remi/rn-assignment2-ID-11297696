@@ -1,15 +1,18 @@
-# React Native Blank Template Project with Expo
+# React Native Assignment
 
-This project was created as part of an assignment to demonstrate basic React Native development using Expo CLI.
+## Description
+This is a React Native project created using the Expo CLI. The task involves creating a blank template project and making specific modifications to the `App.js` file.
 
-**Student ID:** 11297696
+## Task
+- Change the background color of the View component.
+- Edit the Text component to display "My name is Abdulrauf Remi Abdulganiu".
+- Increase the font size of the text to 24.
+- Make the name "Abdulrauf Remi Abdulganiu" bold.
 
-**Description:**
+## Student ID
+ID: 11297696
 
-This project is a simple React Native app that displays a text message with a colored background. The text is formatted with a larger font size and bold style.
-
-
-**Screenshot:**
+## Screenshot
 
 ![App](<Screenshot 2024-05-26 150044.png>)
 
