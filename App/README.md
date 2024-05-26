@@ -11,5 +11,5 @@ This project is a simple React Native app that displays a text message with a co
 
 **Screenshot:**
 
-![App][(https://github.com/Abdulrauf-Remi/rn-assignment2-ID-11297696/blob/main/App/Screenshot%202024-05-26%20150044.png))
+Screenshot 2024-05-26 150044.png
 
